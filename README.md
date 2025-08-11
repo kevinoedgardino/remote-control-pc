@@ -1,5 +1,5 @@
 # CONTROL REMOTO PARA PC
-Envía comandos de teclas básicas a la PC mediante un servidor web de Node.js y comunicación mediante WebSockets.
+Envía comandos de teclas básicas a la PC mediante un servidor web de Node.js y WebSockets.
 
 >Solo funciona en **Windows**
 
