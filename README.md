@@ -1,6 +1,8 @@
 # CONTROL REMOTO PARA PC
 Envía comandos de teclas básicas a la PC mediante un servidor web de Node.js y comunicación mediante WebSockets.
 
+>Solo funciona en **Windows**
+
 ## Teclas habilitadas
 - Apagado
 - Subir volumen
@@ -13,3 +15,11 @@ Envía comandos de teclas básicas a la PC mediante un servidor web de Node.js y
 - Flecha izquierda
 - Flecha abajo
 - Flecha derecha
+
+## Inicialización
+En la terminal de Windows navega hacia la carpeta del proyecto y ejecuta:
+```
+node server.js
+>> Servidor activo en http://127.0.0.1:3000
+```
+
